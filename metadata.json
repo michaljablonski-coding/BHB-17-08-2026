@@ -1,0 +1,8 @@
+{
+  "name": "Bertsch Holzbau - Polska",
+  "description": "Nowoczesna strona WWW z segmentu Premium (Top of the Top) dla producenta drewnianych konstrukcji – saun i domków modułowych na rynek polski.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Charis+SIL:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
+  --font-heading: "Charis SIL", serif;
+  
+  --color-brand-wood: #c68a47;
+  --color-brand-wood-dark: #9e6c35;
+  --color-brand-graphite: #1a1b1e;
+  --color-brand-green: #308b54;
+  --color-brand-green-dark: #246e41;
+  --color-brand-offwhite: #f8f9fa;
+}
